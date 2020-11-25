@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ### Changed
+- Log error if pass undefined device when calling choose input device
+- Doing typecheck for MediaDeviceInfo 
 
 ### Removed
 
